@@ -1,5 +1,5 @@
 # powerbrick
-
+只保留RFID的扩展，其他扩展被我删除了
 ![](Powerbrick.png)
 
 
